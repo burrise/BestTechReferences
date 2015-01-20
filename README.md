@@ -1,5 +1,5 @@
-Recommended Technical References
-================================
+Recommended Technical References for Project
+============================================
 
 Some resources are better than others for learning new technology. You can save substantial time and effort if you start with the very best resources.
 
