@@ -6,7 +6,7 @@ The following hands-on tutorial offers a nice introduction to MVC 4:
 http://www.asp.net/mvc/tutorials/mvc-4/getting-started-with-aspnet-mvc4/intro-to-aspnet-mvc-4
 
 The following book is a more comprehensive reference:
-MVC: Pro ASP.NET MVC 4 (There is a newer version of this book that covers MVC 5. Both are available on Safari.)
+MVC: Pro ASP.NET MVC 4 (There is a newer version of this book that covers MVC 5. Both should be available on Safari.)
 
 ========================================================
 
