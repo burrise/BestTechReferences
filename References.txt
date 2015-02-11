@@ -29,3 +29,18 @@ changes and have to pull updates, it may be wise to use 'fetch' instead of 'pull
 changes that would be made to your local repository before actually merging them in.
 http://longair.net/blog/2009/04/16/git-fetch-and-merge/
 =======================================================
+
+===Suggestions by Brandon Andrews=======================
+
+pdfsharp is a .NET library for processing PDF files.  
+
+Per the forum posting:
+http://stackoverflow.com/questions/2937797/best-c-sharp-api-to-create-pdf
+This API is open source and licensed by MIT.  Therefore, it can be used in
+a corporate setting.
+
+iText# is another API that is highly touted, however it is licensed by AGPL and
+any program using it must also be licensed by AGPL.
+
+pdfsharp can be downloaded here:
+http://pdfsharp.codeplex.com/
