@@ -13,5 +13,19 @@ MVC: Pro ASP.NET MVC 4 (There is a newer version of this book that covers MVC 5.
 === Suggestions by <your name> ========================
 
 
+=== Suggestions by Michael Harris =====================
+ASP.NET MVC Tutorial
+Excellent summary of a database first design to create a website with dynamic content. Links to several more advanced
+topics on the same page.
+http://www.asp.net/mvc/overview
 
+Helpful Git resources:
+An excellent summary of critical git commands to get started. Also shows a nice workflow to safely
+merge a long term feature into your master branch:
+http://www.git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+
+Another useful tutorial for Git. This one shows the benefits of operating within the command line. If you've made a lot of
+changes and have to pull updates, it may be wise to use 'fetch' instead of 'pull' to do so. This way you can preview the 
+changes that would be made to your local repository before actually merging them in.
+http://longair.net/blog/2009/04/16/git-fetch-and-merge/
 =======================================================
