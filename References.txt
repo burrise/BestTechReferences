@@ -15,3 +15,18 @@ MVC: Pro ASP.NET MVC 4 (There is a newer version of this book that covers MVC 5.
 
 
 =======================================================
+
+===Suggestions by Brandon Andrews=======================
+
+pdfsharp is a .NET library for processing PDF files.  
+
+Per the forum posting:
+http://stackoverflow.com/questions/2937797/best-c-sharp-api-to-create-pdf
+This API is open source and licensed by MIT.  Therefore, it can be used in
+a corporate setting.
+
+iText# is another API that is highly touted, however it is licensed by AGPL and
+any program using it must also be licensed by AGPL.
+
+pdfsharp can be downloaded here:
+http://pdfsharp.codeplex.com/
