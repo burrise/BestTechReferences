@@ -44,3 +44,17 @@ any program using it must also be licensed by AGPL.
 
 pdfsharp can be downloaded here:
 http://pdfsharp.codeplex.com/
+
+=======================================================
+
+===Suggestions by Aldo Anaya=======================
+I also used the asp.net site and went through the tutorials.  There were easy to follow and took you through step by step
+with making the web app.  It goes over creating a view, creating a model and creating a controller.  it also
+goes over creating tables from classes from your code.
+
+http://www.asp.net/mvc/overview/getting-started/introduction/getting-started
+
+Another good site with similair information was 
+
+http://www.w3schools.com/aspnet/mvc_app.asp
+=======================================================
