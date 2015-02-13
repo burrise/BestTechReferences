@@ -58,3 +58,15 @@ Another good site with similair information was
 
 http://www.w3schools.com/aspnet/mvc_app.asp
 =======================================================
+
+=== Suggestions by Raphael Henrique ========================
+
+I also think that the asp.net site is very complete with a good step by step tutorial (http://www.asp.net/mvc)
+And if you like video tutorials, I found this video that talks about basics of MVC, basics of how to make some simple operations with the database:
+https://www.youtube.com/watch?v=VAtVv1Q7ufM
+
+A useful alternative to help you with the user interface would be Bootstrap, it is a html, css and javaScript framework very easy to use, with 
+lots of components that you can use like buttons, forms, and also allows you to create responsive designs.
+http://getbootstrap.com/getting-started/
+
+========================================================
