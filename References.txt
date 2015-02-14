@@ -59,6 +59,18 @@ Another good site with similair information was
 http://www.w3schools.com/aspnet/mvc_app.asp
 =======================================================
 
+=== Suggestions by William Freeman ========================
+http://www.microsoftvirtualacademy.com/training-courses/developing-asp-net-mvc-4-web-applications-jump-start
+A good video tutorial about getting started with an ASP.NET MVC application using Entity framework.
+
+http://www.asp.net/mvc/overview/getting-started/getting-started-with-ef-using-mvc/creating-an-entity-framework-data-model-for-an-asp-net-mvc-application
+A good tutorial series that shows how to build an MVC ASP.NET application using a code first design.
+
+https://msdn.microsoft.com/en-us/data/aa937723
+Describes in depth detail about various options available using Entiy framework.
+
+========================================================
+
 === Suggestions by Raphael Henrique ========================
 
 I also think that the asp.net site is very complete with a good step by step tutorial (http://www.asp.net/mvc)
