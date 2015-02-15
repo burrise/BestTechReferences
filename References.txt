@@ -10,7 +10,12 @@ MVC: Pro ASP.NET MVC 4 (There is a newer version of this book that covers MVC 5.
 
 ========================================================
 
-=== Suggestions by <your name> ========================
+=== Suggestions by <Adam Guerrero> ========================
+https://www.youtube.com/watch?v=73I5dRucCds 
+https://www.youtube.com/watch?v=TPY8UwlTIc0 
+I used both these tutorials to help grasp a thorough understanding for GitHub. I used them to get my GitHub account started. I was rather unfamiliar with GitHub so like most people I turned to YouTube tutorials which helped me a great deal.
+I was designated as one of the testers for our group project. Here is a brief description on visual studio and unit testing.
+http://www.visualstudio.com/en-us/get-started/create-and-run-unit-tests-vs.aspx 
 
 
 === Suggestions by Michael Harris =====================
