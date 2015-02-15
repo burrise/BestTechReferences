@@ -10,8 +10,11 @@ MVC: Pro ASP.NET MVC 4 (There is a newer version of this book that covers MVC 5.
 
 ========================================================
 
-=== Suggestions by <your name> ========================
+=== Suggestions by Hang Nguyen ========================
 
+The following link is step-by-step tutorial on how to create a database on Microsoft Visual Studios:
+
+http://www.theengineeringprojects.com/2013/01/creating-database-in-microsoft-visual.html
 
 
 =======================================================
