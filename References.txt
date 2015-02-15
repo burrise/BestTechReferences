@@ -119,3 +119,13 @@ http://www.mikesdotnetting.com/article/125/asp-net-mvc-uploading-and-downloading
 http://stackoverflow.com/questions/1865122/how-do-i-link-to-downloadable-files-in-asp-net-mvc
 
 ========================================================
+===Suggestions By Mark Schultz==========================
+
+Last semester I had to learn C# for a project. I used this link to get the general idea in a couple of hours.
+If you need to learn C# or need to dust off the cobwebs, I highly reccomend it.
+
+http://csharp.net-tutorials.com/
+
+For those who are afraid of the Linux command line, here is a quick cheat sheet that I use from time to time.
+
+http://www.cheatography.com/davechild/cheat-sheets/linux-command-line/
