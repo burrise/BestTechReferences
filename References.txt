@@ -82,3 +82,11 @@ lots of components that you can use like buttons, forms, and also allows you to 
 http://getbootstrap.com/getting-started/
 
 ========================================================
+
+=== Suggestions by Luyen Nguyen ========================
+
+Since our group "The Chinchillas" is doing something a little different then the rest of the class, I wanted to post a reference about Bootstrap that might be helpful to other members of the class.  I agree with Raphael that the bootstrap website is very useful, because they have very good available resources that can help you create a nice webpage. 
+http://getbootstrap.com/ 
+
+We tend to be uninterested in certain topics we are not knowledgeable about, but sometimes a good beginners tutorial helps with the learning process.  Heres a good beginners video from YouTube on a demonstration of how bootstrap works.
+https://www.youtube.com/watch?v=no-Ntkc836w
