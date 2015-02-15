@@ -90,3 +90,15 @@ http://getbootstrap.com/
 
 We tend to be uninterested in certain topics we are not knowledgeable about, but sometimes a good beginners tutorial helps with the learning process.  Heres a good beginners video from YouTube on a demonstration of how bootstrap works.
 https://www.youtube.com/watch?v=no-Ntkc836w
+
+========================================================
+
+=== Suggestions by Scott Morris ========================
+
+I think that it is good that we get to implement a database within our project.  A lot of us will be using MySQL for our databases.  Getting to know and understand how to build an efficient database is essential for all of us. These videos from The New Boston are very helpful if you get stuck with your MySQL database.
+
+https://www.thenewboston.com/videos.php?cat=49
+
+When trying to learn Git, I found there was an easier way for us Mac users.  You can simply download the Github UI and make changes directly from the UI without having to mess with command line.
+
+https://help.github.com/articles/working-with-repositories/
