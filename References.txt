@@ -102,3 +102,20 @@ https://www.thenewboston.com/videos.php?cat=49
 When trying to learn Git, I found there was an easier way for us Mac users.  You can simply download the Github UI and make changes directly from the UI without having to mess with command line.
 
 https://help.github.com/articles/working-with-repositories/
+
+========================================================
+
+=== Suggestions by Samaa Gazzaz ========================
+
+http://www.w3schools.com/aspnet/aspnet_pages.asp
+Useful tutorials for front-end development.
+
+For creating the read-only file, these references were helpful in: 
+1. Writing the date into a .CSV file (in order to create the excel .xls file later).
+http://stackoverflow.com/questions/22655312/creating-csv-file-from-listobject
+
+2. Downloading the file from the web application by clicking a button or a link.
+http://www.mikesdotnetting.com/article/125/asp-net-mvc-uploading-and-downloading-files
+http://stackoverflow.com/questions/1865122/how-do-i-link-to-downloadable-files-in-asp-net-mvc
+
+========================================================
