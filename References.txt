@@ -102,22 +102,3 @@ https://www.thenewboston.com/videos.php?cat=49
 When trying to learn Git, I found there was an easier way for us Mac users.  You can simply download the Github UI and make changes directly from the UI without having to mess with command line.
 
 https://help.github.com/articles/working-with-repositories/
-
-========================================================
-
-=== Suggestions by Nathaniel Baker ========================
-
-
-I think working with our prototype the next few days will get us moving towards a better understanding
-of how we are going to go about tackling the features of the application. Basic functionality once we 
-have completed the protoype and build from there.  
-
-Many resources online, I watched a few videos on exporting from Visual Studio C# to pdf
-video 1:
-https://www.youtube.com/watch?v=xskGESN-0Vk
-video 2:
-https://www.youtube.com/watch?v=yMAkvrdfZxA
-
-I also found a blog on microsoft.com with the same topic
-https://social.msdn.microsoft.com/Forums/vstudio/en-US/46b0ea5f-7bc9-46c3-95e2-2d78ce3d5c64/using-c-to-export-to-pdf?forum=csharpgeneral
-
