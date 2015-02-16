@@ -46,10 +46,15 @@ a corporate setting.
 
 iText# is another API that is highly touted, however it is licensed by AGPL and
 any program using it must also be licensed by AGPL.
+AGPL Information:
+https://www.kuali.co/agpl-licensing-explained/
+After reading this article, we may be able to use iText#.  I will confirm with Prof. Burris.
 
 pdfsharp can be downloaded here:
 http://pdfsharp.codeplex.com/
 
+Step-by-step implementation of a .pdf
+http://csharp.net-informations.com/file/create-pdf.htm
 =======================================================
 
 ===Suggestions by Aldo Anaya=======================
