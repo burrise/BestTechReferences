@@ -190,6 +190,25 @@ http://www.w3schools.com/sql/
 
 http://www.codeproject.com/Articles/692092/A-free-Export-to-Excel-Csharp-class-using-OpenXML
 
+========================================================
+
+====Suggestions by Nathaniel Baker=====================================
+
+
+Many resources online, I watched a few videos on exporting from Visual Studio C# to pdf
+video 1:
+https://www.youtube.com/watch?v=xskGESN-0Vk
+video 2:
+https://www.youtube.com/watch?v=yMAkvrdfZxA
+
+I also found a blog on microsoft.com with the same topic
+https://social.msdn.microsoft.com/Forums/vstudio/en-US/46b0ea5f-7bc9-46c3-95e2-2d78ce3d5c64/using-c-to-export-to-pdf?forum=csharpgeneral
+
+I think working with our prototype the next few days will get us moving towards a better understanding
+of how we are going to go about tackling the features of the application. Basic functionality once we 
+have completed the protoype and build from there.  
+
+
 This reference details how to export data to an Excel spreadsheet using C#.
 
 http://sourceforge.net/projects/itextsharp/
