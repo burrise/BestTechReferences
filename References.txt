@@ -124,6 +124,31 @@ http://www.mikesdotnetting.com/article/125/asp-net-mvc-uploading-and-downloading
 http://stackoverflow.com/questions/1865122/how-do-i-link-to-downloadable-files-in-asp-net-mvc
 
 ========================================================
+
+=== Suggestions by Jonathan Davis ========================
+
+When it comes to tutorials, I prefer video tutorials.  For .NET development there are two main sources I use,
+one paid, one free.
+
+1. Pluralsight.com is subscription based and offers thousands of .NET related video tutorials.  The videos
+are authored by industry experts, many of them Microsoft MVPs.  They are thorough and sometimes hours long.
+Here are a few that will be helpful to this project:
+    + http://www.pluralsight.com/courses/mvc4
+    + http://www.pluralsight.com/courses/aspdotnet-mvc5-fundamentals
+    + http://www.pluralsight.com/courses/entity-framework5-getting-started
+
+2. YouTuber kudvenkat: https://www.youtube.com/user/kudvenkat  He has hundreds of .NET related tutorials that
+are thorough and detailed.  They are organized into meaningful playlists that take you through entire .NET
+technologies.  Here are some helpful ones:
+    + Linq to SQL Tutorial: https://www.youtube.com/playlist?list=PL6n9fhu94yhXCHPed2Q9oBkgvzw9Re8hC
+    + ASP.NET MVC for beginners: https://www.youtube.com/playlist?list=PL6n9fhu94yhVm6S8I2xd6nYz2ZORd7X2v
+    + C# for beginners: https://www.youtube.com/playlist?list=PLAC325451207E3105
+
+3. If you're looking for an entertaining way to keep up with the latest and greatest .NET and related technologies,
+check out the podcast: http://www.dotnetrocks.com/
+
+========================================================
+
 ===Suggestions By Mark Schultz==========================
 
 Last semester I had to learn C# for a project. I used this link to get the general idea in a couple of hours.
@@ -134,3 +159,4 @@ http://csharp.net-tutorials.com/
 For those who are afraid of the Linux command line, here is a quick cheat sheet that I use from time to time.
 
 http://www.cheatography.com/davechild/cheat-sheets/linux-command-line/
+
