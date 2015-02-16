@@ -133,8 +133,8 @@ Here are a few that will be helpful to this project:
     + http://www.pluralsight.com/courses/entity-framework5-getting-started
 
 2. YouTuber kudvenkat: https://www.youtube.com/user/kudvenkat  He has hundreds of .NET related tutorials that
-are thorough and detailed.  He has them organized into helpful playlists that take you through an entire .NET
-technology.  Here are some helpful ones:
+are thorough and detailed.  They are organized into meaningful playlists that take you through entire .NET
+technologies.  Here are some helpful ones:
     + Linq to SQL Tutorial: https://www.youtube.com/playlist?list=PL6n9fhu94yhXCHPed2Q9oBkgvzw9Re8hC
     + ASP.NET MVC for beginners: https://www.youtube.com/playlist?list=PL6n9fhu94yhVm6S8I2xd6nYz2ZORd7X2v
     + C# for beginners: https://www.youtube.com/playlist?list=PLAC325451207E3105
