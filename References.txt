@@ -10,7 +10,12 @@ MVC: Pro ASP.NET MVC 4 (There is a newer version of this book that covers MVC 5.
 
 ========================================================
 
-=== Suggestions by <your name> ========================
+=== Suggestions by <Adam Guerrero> ========================
+https://www.youtube.com/watch?v=73I5dRucCds 
+https://www.youtube.com/watch?v=TPY8UwlTIc0 
+I used both these tutorials to help grasp a thorough understanding for GitHub. I used them to get my GitHub account started. I was rather unfamiliar with GitHub so like most people I turned to YouTube tutorials which helped me a great deal.
+I was designated as one of the testers for our group project. Here is a brief description on visual studio and unit testing.
+http://www.visualstudio.com/en-us/get-started/create-and-run-unit-tests-vs.aspx 
 
 
 === Suggestions by Michael Harris =====================
@@ -143,3 +148,15 @@ technologies.  Here are some helpful ones:
 check out the podcast: http://www.dotnetrocks.com/
 
 ========================================================
+
+===Suggestions By Mark Schultz==========================
+
+Last semester I had to learn C# for a project. I used this link to get the general idea in a couple of hours.
+If you need to learn C# or need to dust off the cobwebs, I highly reccomend it.
+
+http://csharp.net-tutorials.com/
+
+For those who are afraid of the Linux command line, here is a quick cheat sheet that I use from time to time.
+
+http://www.cheatography.com/davechild/cheat-sheets/linux-command-line/
+
