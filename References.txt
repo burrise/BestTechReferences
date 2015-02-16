@@ -10,6 +10,23 @@ MVC: Pro ASP.NET MVC 4 (There is a newer version of this book that covers MVC 5.
 
 ========================================================
 
+ 
+=== Suggestions by Todd Brees ======================== 
+MSDN integration of GitHub with Visual Studio 
+requires msdn account 
+Full information on how to integrate the GitHub project directly into visual studio (as a 3rd party source).  Also touches on  
+Team foundation or Git hosting through Microsoft. 
+https://msdn.microsoft.com/en-us/library/hh850437.aspx 
+ 
+MSDN integation of Data Bases within Visual Studio 
+*requires msdn account 
+Information on how to interact with SQL databases through Visual Studio. 
+https://msdn.microsoft.com/en-us/library/y5a4ezk9.aspx 
+ 
+Link to get your MSDN account (should already have it) 
+https://www.dreamspark.com/Student/Default.aspx 
+ 
+
 === Suggestions by <Adam Guerrero> ========================
 https://www.youtube.com/watch?v=73I5dRucCds 
 https://www.youtube.com/watch?v=TPY8UwlTIc0 
