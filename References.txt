@@ -160,3 +160,16 @@ For those who are afraid of the Linux command line, here is a quick cheat sheet 
 
 http://www.cheatography.com/davechild/cheat-sheets/linux-command-line/
 
+========================================================
+
+===Suggestions By Aaron Orpin=========================
+
+I beleive that Bootstrap does a great job of explaining its many features and how to utilize them, but I am sure
+that many of us are used to using W3Schools tutorials. Here is a link to their guide to Bootstrap.
+http://www.w3schools.com/bootstrap/
+
+Also make sure to pay attention to what version of Bootstrap any guide is talking about and that you are using 
+the same version. Here a guide to the differences between bootstrap version 2 and 3.
+http://getbootstrap.com/migration/
+
+========================================================
