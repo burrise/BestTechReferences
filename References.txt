@@ -173,3 +173,10 @@ the same version. Here a guide to the differences between bootstrap version 2 an
 http://getbootstrap.com/migration/
 
 ========================================================
+
+===Suggestions by Francisco Pedrosa Jr==================
+
+I think this is a good reference with you want to quickly look for SQL statements.
+http://www.w3schools.com/sql/
+
+========================================================
