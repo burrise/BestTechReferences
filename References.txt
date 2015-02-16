@@ -10,7 +10,7 @@ MVC: Pro ASP.NET MVC 4 (There is a newer version of this book that covers MVC 5.
 
 ========================================================
 
-=== Suggestions by <your name> ========================
+=== Suggestions by <Your Name> ========================
 
 
 === Suggestions by Michael Harris =====================
@@ -119,3 +119,17 @@ http://www.mikesdotnetting.com/article/125/asp-net-mvc-uploading-and-downloading
 http://stackoverflow.com/questions/1865122/how-do-i-link-to-downloadable-files-in-asp-net-mvc
 
 ========================================================
+
+=== Suggestions by Brien Belko =========================
+
+I also think MVC: Pro ASP.NET MVC 5 is an excellent resource.  The first half of the book gives you a step by step, chapter by chapter guide to building an application within ASP.NET MVC.  The second half of the book really dives deep into the concepts deeply. You can find it on safari in the UMKC library databases.
+http://library.umkc.edu/
+
+Tangential to using ASP.NET, I have been using for reference C# 5.0 In A Nutshell: The Definitive Reference.  This book has been incredibly helpful to me as I had never programmed in C# prior to this project.  This also can be found on Safari in the UMKC library databases.
+http://library.umkc.edu/
+
+There is a free guide to Git published by Apress that will tell you everything you wanted to know, and much you wouldn’t, about Git.  It explains the concepts of Git, comes in four different file formats and has a chapter completely dedicated to GitHub.  That and the first few chapters should be enough to make you an expert (for the purpose of this class)
+http://git-scm.com/book/en/v2 
+
+========================================================
+
