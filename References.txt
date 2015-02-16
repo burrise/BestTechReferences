@@ -180,3 +180,14 @@ I think this is a good reference with you want to quickly look for SQL statement
 http://www.w3schools.com/sql/
 
 ========================================================
+
+====Suggestions by Ahmad Mahid=====================================
+
+http://www.codeproject.com/Articles/692092/A-free-Export-to-Excel-Csharp-class-using-OpenXML
+
+This reference details how to export data to an Excel spreadsheet using C#.
+
+http://sourceforge.net/projects/itextsharp/
+
+This is a .NET library for exporting data to a PDF file.
+===================================================================
