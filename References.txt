@@ -10,6 +10,23 @@ MVC: Pro ASP.NET MVC 4 (There is a newer version of this book that covers MVC 5.
 
 ========================================================
 
+ 
+=== Suggestions by Todd Brees ======================== 
+MSDN integration of GitHub with Visual Studio 
+requires msdn account 
+Full information on how to integrate the GitHub project directly into visual studio (as a 3rd party source).  Also touches on  
+Team foundation or Git hosting through Microsoft. 
+https://msdn.microsoft.com/en-us/library/hh850437.aspx 
+ 
+MSDN integation of Data Bases within Visual Studio 
+*requires msdn account 
+Information on how to interact with SQL databases through Visual Studio. 
+https://msdn.microsoft.com/en-us/library/y5a4ezk9.aspx 
+ 
+Link to get your MSDN account (should already have it) 
+https://www.dreamspark.com/Student/Default.aspx 
+ 
+
 === Suggestions by <Adam Guerrero> ========================
 https://www.youtube.com/watch?v=73I5dRucCds 
 https://www.youtube.com/watch?v=TPY8UwlTIc0 
@@ -189,6 +206,25 @@ http://www.w3schools.com/sql/
 ====Suggestions by Ahmad Mahid=====================================
 
 http://www.codeproject.com/Articles/692092/A-free-Export-to-Excel-Csharp-class-using-OpenXML
+
+========================================================
+
+====Suggestions by Nathaniel Baker=====================================
+
+
+Many resources online, I watched a few videos on exporting from Visual Studio C# to pdf
+video 1:
+https://www.youtube.com/watch?v=xskGESN-0Vk
+video 2:
+https://www.youtube.com/watch?v=yMAkvrdfZxA
+
+I also found a blog on microsoft.com with the same topic
+https://social.msdn.microsoft.com/Forums/vstudio/en-US/46b0ea5f-7bc9-46c3-95e2-2d78ce3d5c64/using-c-to-export-to-pdf?forum=csharpgeneral
+
+I think working with our prototype the next few days will get us moving towards a better understanding
+of how we are going to go about tackling the features of the application. Basic functionality once we 
+have completed the protoype and build from there.  
+
 
 This reference details how to export data to an Excel spreadsheet using C#.
 
