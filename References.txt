@@ -232,3 +232,9 @@ http://sourceforge.net/projects/itextsharp/
 
 This is a .NET library for exporting data to a PDF file.
 ===================================================================
+
+====Suggestions by Hang Nguyen=====================================
+
+The following link is step-by-step tutorial on how to create a database on Microsoft Visual Studios:
+
+http://www.theengineeringprojects.com/2013/01/creating-database-in-microsoft-visual.html
