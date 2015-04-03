@@ -1,0 +1,107 @@
+﻿﻿@{
+    ViewBag.Title = "Home Page";
+    ViewBag.AppName = "On-Call Assistant";
+}
+@section styles {
+    <link href="~/Content/fullcalendar.css" rel="stylesheet" />
+    <link href="~/Content/fullcalendar.print.css" rel="stylesheet" media='print' />
+}
+
+@section scripts {
+    <script src="~/Scripts/lib/jquery.min.js"></script>
+    <script src="~/Scripts/lib/moment.min.js"></script>
+    <script src="~/Scripts/fullcalendar.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    @*<script type="text/javascript" src="~/Scripts/lib/calendarEvents.js"></script>*@
+    <script type="text/javascript">
+    $(document).ready(function () {
+        $('#calendar').fullCalendar({
+            editable: false,
+            events: "/home/rotationdata/"@*for filtiring: /Home/RotationData?start=2015-03-01&end=2015-04-01&ID=5*@
+        });
+
+        $('#GenerateSchedule').click(function (event) {
+            event.preventDefault();
+            //probably could be refactored...
+            window.location.replace("/oncallrotations/generateSchedule");
+        });
+
+
+        @*  Code for sorting rotations on the calendar by app starts here.
+            Grab each application and dynamically create a drop-down list item*@
+            @foreach(var app in ViewBag.applications)
+            {
+                @:$(".dropdown-menu").prepend('<li role="presentation"><a role="menuitem" tabindex="-1" href="#">' + '@app' + '</a></li>');
+            }
+        $(".dropdown-menu").prepend('<li role="presentation"><a role="menuitem" tabindex="-1" href="#">Remove Filters</a></li>');
+            
+        @*Set the onclick event for the the dropdown list items*@
+        $('.dropdown').on('click', 'ul li a', function () {
+            var selectedAppName = $(this).text();
+            if (selectedAppName == 'Remove Filters') {
+                $('#calendar').fullCalendar('removeEvents');
+                $('#calendar').fullCalendar('addEventSource', "/Home/RotationData/" + selectedAppID);
+                $('#calendar').fullCalendar('rerenderEvents');
+            }
+            else {
+                var selectedAppID = selectedAppName.slice(selectedAppName.indexOf("-") + 1, selectedAppName.length);
+                console.log(selectedAppID);
+                $('#calendar').fullCalendar('removeEvents');
+                $('#calendar').fullCalendar('addEventSource', "/Home/RotationData?ID=" + selectedAppID);
+                $('#calendar').fullCalendar('rerenderEvents');
+            }
+        });
+    });
+
+
+
+    </script>
+
+
+
+
+
+}
+<div class="jumbotron">
+    <h1>@ViewBag.AppName</h1>
+    
+    <p class="lead">Manage your on-call rotations, employees and summaries.</p>
+    <button id="GenerateSchedule" class="btn btn-primary btn-lg" type="button" onclick='this.disabled = "disabled";'>Generate Schedule</button>
+    <a href="../Home/Printable">print &raquo;</a>
+</div>
+@*Containers for the dropdown list of Application names (for sorting rotations on the calendar by app)*@
+<div class="container">
+    <div class="dropdown">
+        <button class="btn btn-default dropdown-toggle" type="button" id="menu1" data-toggle="dropdown">
+            Sort By App
+            <span class="caret"></span>
+        </button>
+        <ul id="dropDownList" class="dropdown-menu" role="menu" aria-labelledby="menu1"></ul>
+    </div>
+</div>
+
+<div class="row" style=" padding-top:20px">
+    <div class="col-md-9">
+        <div id="calendar"></div>
+    </div>
+
+
+    <div class="col-md-3">
+        <div class="row">
+            <h2>Employees</h2>
+            <p>Manage your employee data.</p>
+            <p><a class="btn btn-default" href="/employees">Go &raquo;</a></p>
+            <!-- <p><a href="/employees"><img src="~/Content/employeesButton.png"/></a></p>-->
+        </div>
+        <div class="row">
+            <h2>Manage On-Call Schedules</h2>
+            <p>View and edit the upcoming on-call rotations.</p>
+            <p><a class="btn btn-default" href="/oncallrotations">Go &raquo;</a></p>
+        </div>
+        <div class="row">
+            <h2>Manage Vacation</h2>
+            <p>Get a summary of upcoming vacation for employees and edit that time off as necessary.</p>
+            <p><a class="btn btn-default" href="/outofoffices">Go &raquo;</a></p>
+        </div>
+    </div>
+</div>
