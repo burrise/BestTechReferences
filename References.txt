@@ -239,4 +239,31 @@ The following link is step-by-step tutorial on how to create a database on Micro
 
 http://www.theengineeringprojects.com/2013/01/creating-database-in-microsoft-visual.html
 
-=== Suggestions by Brien Belko =========================I also think MVC: Pro ASP.NET MVC 5 is an excellent resource.  The first half of the book gives you a step by step, chapter by chapter guide to building an application within ASP.NET MVC.  The second half of the book really dives deep into the concepts deeply. You can find it on safari in the UMKC library databases.http://library.umkc.edu/Tangential to using ASP.NET, I have been using for reference C# 5.0 In A Nutshell: The Definitive Reference.  This book has been incredibly helpful to me as I had never programmed in C# prior to this project.  This also can be found on Safari in the UMKC library databases.http://library.umkc.edu/There is a free guide to Git published by Apress that will tell you everything you wanted to know, and much you wouldn’t, about Git.  It explains the concepts of Git, comes in four different file formats and has a chapter completely dedicated to GitHub.  That and the first few chapters should be enough to make you an expert (for the purpose of this class)http://git-scm.com/book/en/v2 ========================================================
+=== Suggestions by Brien Belko =========================
+
+I also think MVC: Pro ASP.NET MVC 5 is an excellent resource.  The first half of the book gives you a step by step, chapter by chapter guide to building an application within ASP.NET MVC.  The second half of the book really dives deep into the concepts deeply. You can find it on safari in the UMKC library databases.
+http://library.umkc.edu/
+
+Tangential to using ASP.NET, I have been using for reference C# 5.0 In A Nutshell: The Definitive Reference.  This book has been incredibly helpful to me as I had never programmed in C# prior to this project.  This also can be found on Safari in the UMKC library databases.
+http://library.umkc.edu/
+
+There is a free guide to Git published by Apress that will tell you everything you wanted to know, and much you wouldn’t, about Git.  It explains the concepts of Git, comes in four different file formats and has a chapter completely dedicated to GitHub.  That and the first few chapters should be enough to make you an expert (for the purpose of this class)
+http://git-scm.com/book/en/v2 
+
+========================================================
+=== Suggestions by Nick Thompson =======================
+
+When I was becoming an Android developer, one of the first resources I used was a group of videos by Derek Banas https://www.youtube.com/user/derekbanas. He has a wide variety covering multiple topics, but I found his Java and Android programming ones were the best for getting my foot in the door. Since then I’ve passed these videos onto interns and other developers at my company.
+Here is a useful article on why “Technical Debt” should never be it’s own story in Agile http://ronjeffries.com/articles/015-11/tech-debt/.
+
+Here is an extremely important blog post on how to make a proper commit message for tracking and team cohesion http://chris.beams.io/posts/git-commit/
+
+Some general ideas on what makes a good pull request/commit are:
+>Don’t change something that isn’t related to your task
+>Don’t put multiple tasks into a single commit. One commit should be related to accomplishing one task.
+>Commit messages should be in future tense, for instance “Add blank to blank to achieve blank”, rather than “Adding blank to blank”
+>Commit titles should be short and concise. You can add a secondary line that covers the “why” you did what you did.
+>Don’t make a PR with known merge conflicts with the main branch
+>Work should always be pull requested into a “Develop” branch, never directly into master
+>When adding your changes, use ‘git add -p’ and carefully look at each line of changes you want to commit. If you don’t understand something that you are changing, chances are neither will the person code reviewing. This is a perfect time, for even the most veteran programmers, to realize they made mistakes, or that they left in unused imports, or warnings, or what have you. 
+==============================================
