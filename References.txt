@@ -239,4 +239,30 @@ The following link is step-by-step tutorial on how to create a database on Micro
 
 http://www.theengineeringprojects.com/2013/01/creating-database-in-microsoft-visual.html
 
-=== Suggestions by Brien Belko =========================I also think MVC: Pro ASP.NET MVC 5 is an excellent resource.  The first half of the book gives you a step by step, chapter by chapter guide to building an application within ASP.NET MVC.  The second half of the book really dives deep into the concepts deeply. You can find it on safari in the UMKC library databases.http://library.umkc.edu/Tangential to using ASP.NET, I have been using for reference C# 5.0 In A Nutshell: The Definitive Reference.  This book has been incredibly helpful to me as I had never programmed in C# prior to this project.  This also can be found on Safari in the UMKC library databases.http://library.umkc.edu/There is a free guide to Git published by Apress that will tell you everything you wanted to know, and much you wouldn’t, about Git.  It explains the concepts of Git, comes in four different file formats and has a chapter completely dedicated to GitHub.  That and the first few chapters should be enough to make you an expert (for the purpose of this class)http://git-scm.com/book/en/v2 ========================================================
+=== Suggestions by Brien Belko =========================
+
+I also think MVC: Pro ASP.NET MVC 5 is an excellent resource.  The first half of the book gives you a step by step, chapter by chapter guide to building an application within ASP.NET MVC.  The second half of the book really dives deep into the concepts deeply. You can find it on safari in the UMKC library databases.
+http://library.umkc.edu/
+
+Tangential to using ASP.NET, I have been using for reference C# 5.0 In A Nutshell: The Definitive Reference.  This book has been incredibly helpful to me as I had never programmed in C# prior to this project.  This also can be found on Safari in the UMKC library databases.
+http://library.umkc.edu/
+
+There is a free guide to Git published by Apress that will tell you everything you wanted to know, and much you wouldn’t, about Git.  It explains the concepts of Git, comes in four different file formats and has a chapter completely dedicated to GitHub.  That and the first few chapters should be enough to make you an expert (for the purpose of this class)
+http://git-scm.com/book/en/v2 
+
+========================================================
+
+=== Suggestions by Jeremiah Trahern ====================
+
+A great reference for the Unity engine is of course their 
+script reference documentation provided here:
+https://docs.unity3d.com/ScriptReference/
+
+This visually pleasing, and well organized webpage takes you through many of the built in Unity Engine utilities. There are also several tutorials, and other documentation for other portions of the Unity engine on the website:
+
+https://unity3d.com/learn/tutorials
+https://docs.unity3d.com/Manual/UISystem.html
+
+
+========================================================
+
