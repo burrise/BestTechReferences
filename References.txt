@@ -232,3 +232,11 @@ http://sourceforge.net/projects/itextsharp/
 
 This is a .NET library for exporting data to a PDF file.
 ===================================================================
+
+======================Suggestions by Sharon Gaceta==============================
+
+https://nnish.com/2013/06/12/how-i-built-an-android-app-in-c-visual-studio-in-less-than-24hrs/
+
+https://www.codeproject.com/Articles/663461/Developing-Android-Apps-using-Csharp
+
+================================================================================
