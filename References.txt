@@ -239,4 +239,26 @@ The following link is step-by-step tutorial on how to create a database on Micro
 
 http://www.theengineeringprojects.com/2013/01/creating-database-in-microsoft-visual.html
 
-=== Suggestions by Brien Belko =========================I also think MVC: Pro ASP.NET MVC 5 is an excellent resource.  The first half of the book gives you a step by step, chapter by chapter guide to building an application within ASP.NET MVC.  The second half of the book really dives deep into the concepts deeply. You can find it on safari in the UMKC library databases.http://library.umkc.edu/Tangential to using ASP.NET, I have been using for reference C# 5.0 In A Nutshell: The Definitive Reference.  This book has been incredibly helpful to me as I had never programmed in C# prior to this project.  This also can be found on Safari in the UMKC library databases.http://library.umkc.edu/There is a free guide to Git published by Apress that will tell you everything you wanted to know, and much you wouldn’t, about Git.  It explains the concepts of Git, comes in four different file formats and has a chapter completely dedicated to GitHub.  That and the first few chapters should be enough to make you an expert (for the purpose of this class)http://git-scm.com/book/en/v2 ========================================================
+=== Suggestions by Brien Belko =========================
+
+I also think MVC: Pro ASP.NET MVC 5 is an excellent resource.  The first half of the book gives you a step by step, chapter by chapter guide to building an application within ASP.NET MVC.  The second half of the book really dives deep into the concepts deeply. You can find it on safari in the UMKC library databases.
+http://library.umkc.edu/
+
+Tangential to using ASP.NET, I have been using for reference C# 5.0 In A Nutshell: The Definitive Reference.  This book has been incredibly helpful to me as I had never programmed in C# prior to this project.  This also can be found on Safari in the UMKC library databases.
+http://library.umkc.edu/
+
+There is a free guide to Git published by Apress that will tell you everything you wanted to know, and much you wouldn’t, about Git.  It explains the concepts of Git, comes in four different file formats and has a chapter completely dedicated to GitHub.  That and the first few chapters should be enough to make you an expert (for the purpose of this class)
+http://git-scm.com/book/en/v2 
+
+========================================================
+
+=== Suggestions by Cameron LEcuyer ======================== 
+Microsoft has some information for working with ASP.Net on 
+
+https://www.asp.net/web-forms
+
+There is some text based information on it if someone does not like watching videos, and they have examples that can be looked at.
+
+When I took a class on ASP.Net at my old school, we used "Beginning ASP.Net 4.5 in C#" by Matthew MacDonald. The book is part of a series, and it looks liked updated versions are available to use. The whole book is rather large, so covering the series may be difficult, but it should make for a useful reference.
+
+=========================================================
