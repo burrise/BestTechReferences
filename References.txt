@@ -232,3 +232,12 @@ http://sourceforge.net/projects/itextsharp/
 
 This is a .NET library for exporting data to a PDF file.
 ===================================================================
+
+====Suggestions by Mark Harbaugh===================================
+
+Good reference on database systems. "Fundamentals of Database Systems (6th Edition)" by Ramez Elmasri
+https://www.amazon.com/Fundamentals-Database-Systems-Ramez-Elmasri/dp/0136086209/ref=sr_1_2?s=books&ie=UTF8&qid=1485724137&sr=1-2&keywords=fundamentals+of+database+systems
+
+CheatSheet with SQL statements: https://en.wikibooks.org/wiki/MySQL/CheatSheet
+A great resource if your new to SQL. Test out SQL statements with a generated database: http://www.w3schools.com/sql/
+===================================================================
