@@ -10,7 +10,20 @@ MVC: Pro ASP.NET MVC 4 (There is a newer version of this book that covers MVC 5.
 
 ========================================================
 
- 
+=== Suggestions by Rebecca Peabody ======================== 
+
+The following webpage gives a broad overview of REST and .net Web API. Since I am unfamiliar with .NET I found 
+this information useful.
+
+https://blogs.msdn.microsoft.com/martinkearn/2015/01/05/introduction-to-rest-and-net-web-api/
+
+I am planning to watch the following YouTube videos to gain a better understanding of APIs and what is involved in
+their creation.
+
+https://www.youtube.com/watch?v=UEEYqMU4org&t=200s
+https://www.youtube.com/watch?v=s7wmiS2mSXY
+
+
 === Suggestions by Todd Brees ======================== 
 MSDN integration of GitHub with Visual Studio 
 requires msdn account 
