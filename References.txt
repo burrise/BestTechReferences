@@ -10,6 +10,11 @@ MVC: Pro ASP.NET MVC 4 (There is a newer version of this book that covers MVC 5.
 
 ========================================================
 
+=== Suggestions by Jeremy Troshynski ======================== 
+Razor Syntax (C#) for ASP.NET Web Development
+This article gives you an overview of programming with ASP.NET Web Pages using the Razor syntax. Razor allows for use of variables within HTML as well as other functionality.
+https://www.asp.net/web-pages/overview/getting-started/introducing-razor-syntax-c
+
  
 === Suggestions by Todd Brees ======================== 
 MSDN integration of GitHub with Visual Studio 
