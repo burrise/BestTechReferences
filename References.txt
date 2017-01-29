@@ -239,8 +239,20 @@ The following link is step-by-step tutorial on how to create a database on Micro
 
 http://www.theengineeringprojects.com/2013/01/creating-database-in-microsoft-visual.html
 
-=== Suggestions by Brien Belko =========================I also think MVC: Pro ASP.NET MVC 5 is an excellent resource.  The first half of the book gives you a step by step, chapter by chapter guide to building an application within ASP.NET MVC.  The second half of the book really dives deep into the concepts deeply. You can find it on safari in the UMKC library databases.http://library.umkc.edu/Tangential to using ASP.NET, I have been using for reference C# 5.0 In A Nutshell: The Definitive Reference.  This book has been incredibly helpful to me as I had never programmed in C# prior to this project.  This also can be found on Safari in the UMKC library databases.http://library.umkc.edu/There is a free guide to Git published by Apress that will tell you everything you wanted to know, and much you wouldn’t, about Git.  It explains the concepts of Git, comes in four different file formats and has a chapter completely dedicated to GitHub.  That and the first few chapters should be enough to make you an expert (for the purpose of this class)http://git-scm.com/book/en/v2 ======================================================== 
+=== Suggestions by Brien Belko =========================
 
-=== Some Suggestions by Jeffrey Slentz ======================== On the topic of gamification, I found a tutorial for ASP.NET in a game format: 
+I also think MVC: Pro ASP.NET MVC 5 is an excellent resource.  The first half of the book gives you a step by step, chapter by chapter guide to building an application within ASP.NET MVC.  The second half of the book really dives deep into the concepts deeply. You can find it on safari in the UMKC library databases.
+http://library.umkc.edu/
+
+Tangential to using ASP.NET, I have been using for reference C# 5.0 In A Nutshell: The Definitive Reference.  This book has been incredibly helpful to me as I had never programmed in C# prior to this project.  This also can be found on Safari in the UMKC library databases.
+http://library.umkc.edu/
+
+There is a free guide to Git published by Apress that will tell you everything you wanted to know, and much you wouldn’t, about Git.  It explains the concepts of Git, comes in four different file formats and has a chapter completely dedicated to GitHub.  That and the first few chapters should be enough to make you an expert (for the purpose of this class)
+http://git-scm.com/book/en/v2 
+
+======================================================== 
+
+=== Some Suggestions by Jeffrey Slentz ======================== 
+On the topic of gamification, I found a tutorial for ASP.NET in a game format: 
 https://www.codeschool.com/courses/try-asp-net-core
-It starts off with a video and then has challenges you can complete. SO far it's been a fun way to learn the basics of the platform.
+It starts off with a video and then has challenges you can complete. So far it's been a fun way to learn the basics of the platform.
