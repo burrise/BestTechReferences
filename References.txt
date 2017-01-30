@@ -232,3 +232,6 @@ http://sourceforge.net/projects/itextsharp/
 
 This is a .NET library for exporting data to a PDF file.
 ===================================================================
+========================================================
+
+===Suggestions by Jessica Sevilla================== If you are like me and Github is a whole new world for you learning your way around before you dive in might not be the worst thing. https://www.youtube.com/watch?v=73I5dRucCds takes you through some basic things that will be helpful in the futuer. Also if the idea of GitHub alone makes you slightly worried then the idea of mixing Visual Studios might make things a little worse heres a helpful link that might make things a litte easier https://www.youtube.com/watch?v=AHNtp0h0T_Q.
