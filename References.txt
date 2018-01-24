@@ -232,3 +232,12 @@ http://sourceforge.net/projects/itextsharp/
 
 This is a .NET library for exporting data to a PDF file.
 ===================================================================
+
+
+
+====Kipling Gillespie==========================================================
+This is a cool python library for manipulating excell files
+
+https://openpyxl.readthedocs.io/en/default/
+
+===============================================================================
